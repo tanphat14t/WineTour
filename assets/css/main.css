@@ -1,3 +1,7 @@
+.app{
+  box-sizing: border-box;
+}
+
 .header {
   width: 100%;
   background-color: #1c1c1c;
@@ -217,8 +221,8 @@
 }
 /* slider */
 .slider {
-  width: 1300px;
-  margin: 0 100px;
+  width: 100%;
+  
 }
 .slider-content {
   display: flex;
